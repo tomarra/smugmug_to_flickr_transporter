@@ -1,4 +1,4 @@
-# SmugMug → Flickr Migration Tool
+# SmugMug → Flickr Transporter Tool
 
 Migrates all your photos and albums from SmugMug to Flickr, preserving titles, descriptions, tags, and album structure.
 
